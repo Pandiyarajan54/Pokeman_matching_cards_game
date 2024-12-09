@@ -1,5 +1,4 @@
 
-
 import java.awt.*;
 import javax.swing.*;
 
@@ -16,8 +15,6 @@ public class setImage {
         frame.setVisible(true);
 
     }
-
-
 
 }
 
