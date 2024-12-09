@@ -10,9 +10,6 @@ import java.awt.*;
             g.drawImage(image.getImage(),10,20,Color.black,null);
         }
 
-
-
-
     }
 
 
